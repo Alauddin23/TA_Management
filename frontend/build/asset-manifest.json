@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.26760ada.css",
+    "main.js": "./static/js/main.7e4cef93.js",
+    "static/media/landing_background.jpg": "./static/media/landing_background.abb7027def8170000230.jpg",
+    "static/media/mcgill_logo.jpg": "./static/media/mcgill_logo.a49b52e02dfca9a7926e.jpg",
+    "index.html": "./index.html",
+    "main.26760ada.css.map": "./static/css/main.26760ada.css.map",
+    "main.7e4cef93.js.map": "./static/js/main.7e4cef93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26760ada.css",
+    "static/js/main.7e4cef93.js"
+  ]
+}
